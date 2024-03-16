@@ -1,0 +1,29 @@
+.home{
+    background-color: black;
+    height: auto;
+    color: white;
+    text-align: center;
+
+
+}
+.home h1{
+    padding-top: 5%;
+    font-size: 80px;
+
+}
+.home h2{
+    padding-top: 1%;
+    font-size: 30px;
+
+}
+
+.inno{
+    color: rgb(7, 136, 241);
+}
+.bytes{
+    color: gold;
+}
+.logbuttons{
+    margin: 100px;
+    padding: 35px;
+}
